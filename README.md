@@ -9,22 +9,22 @@ I'm a Front End Web Developer, WordPress, and Woocommerce Expert passionate abou
 Expert at: HTML5, CSS3, Bootstrap, JavaScript, JQuery, React JS, PHP, WordPress CMS, Elementer, Divi, Wp-Bakery, Contact Form, Woocommerce, Shopify, JavaScript projects, etc. 👨‍💻👨‍💻👨‍💻
 
 Featured Services: 
-✅ WordPress Website
-✅ Web Design & Development
-✅ WordPress Customization 
-✅ WordPress Full Website Creation
-✅ Website Error/Bug Fixing 
-✅ Figma/PSD to HTML 
-✅ Woocommerce/Shopify
+- ✅ WordPress Website
+- ✅ Web Design & Development
+- ✅ WordPress Customization 
+- ✅ WordPress Full Website Creation
+- ✅ Website Error/Bug Fixing 
+- ✅ Figma/PSD to HTML 
+- ✅ Woocommerce/Shopify
 
  I like to code full and fresh and this is my power. Choosing me will ensure that you are satisfied with the results.👨‍💻👨‍💻👨‍💻
 
 Contact Information:
-✅ Gmail: confidencerakib@gmaill.com
-✅ Portfolio: https://developerrk.com/
-✅ Phone: +8801773879035
-✅ Linkedin: https://www.linkedin.com/in/md-rakib-hossain-070991217/
-✅ Facebook: https://www.facebook.com/rakib.hossain.1671897/
+- ✅ Gmail: confidencerakib@gmaill.com
+- ✅ Portfolio: https://developerrk.com/
+- ✅ Phone: +8801773879035
+- ✅ Linkedin: https://www.linkedin.com/in/md-rakib-hossain-070991217/
+- ✅ Facebook: https://www.facebook.com/rakib.hossain.1671897/
 
 Skills: HTML / CSS / Bootstrap / JavaScript / PHP / WordPress etc.
 
